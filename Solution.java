@@ -1,3 +1,5 @@
+
+
 import java.awt.*;
 
 /* 
@@ -21,9 +23,7 @@ public class Solution {
         public String getName() {
             return "Fox";
         }
-         public Color getColor(){
-              return Color.GRAY;
-         }
+        
     }
 
     public static class BigFox extends Fox {
